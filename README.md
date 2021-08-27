@@ -1,5 +1,4 @@
 # NewFPVPilotGuide
-Repo for New FPV Pilot Guide Wiki
 
 This is intended to be a guide for new/beginner FPV pilots to know where to focus their time and to check things off to get their first flight under their belt.
 
